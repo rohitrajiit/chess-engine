@@ -1,6 +1,6 @@
 # ox-engine
 
-A UCI-compatible chess engine written in C++17. No dependencies beyond the standard library.
+A UCI-compatible chess engine written in C++17 by Ox Alpha in one single shot in opencode. No dependencies beyond the standard library.
 
 ## Features
 
